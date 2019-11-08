@@ -10,7 +10,7 @@
 
 ## Regras
 
-- Salvar o projeto no GitHub e enviar o link do reposítório para derci@pedeomenu.com.br e marcos@pedeomenu.com.br.
+- Salvar o projeto no GitHub e enviar o link do repositório para derci@pedeomenu.com.br e marcos@pedeomenu.com.br.
 
 - Compartilhar o projeto no Firebase com os e-mails mencionados acima.
 
