@@ -14,7 +14,7 @@
 
 - Compartilhar o projeto no Firebase com os e-mails mencionados acima.
 
-- Data de entrega limite é 14/11/2019 23:59.
+- Data de entrega limite é 15/11/2019 23:59.
 
 ## Observações
 
